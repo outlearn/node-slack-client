@@ -30,7 +30,7 @@
     "request": "^2.64.0",
     "retry": "^0.8.0",
     "url-join": "0.0.1",
-    "winston": "git+ssh://git@github.com/winstonjs/winston.git#953e1d2ce7d1d95596ffc26ac726fb4ea0ce94be",
+    "winston": "git+https://git@github.com/winstonjs/winston.git#953e1d2ce7d1d95596ffc26ac726fb4ea0ce94be",
     "ws": "^1.0.1"
   },
   "devDependencies": {
